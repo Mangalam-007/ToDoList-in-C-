@@ -1,6 +1,6 @@
 
 
-In this step I have build a  command-line (CLI) program that lets you manage your todos.
+I have build a  command-line (CLI) program that lets you manage your todos in C++.
 
 ## Usage
 
