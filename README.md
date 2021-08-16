@@ -31,10 +31,10 @@ $ ./todo ls
 
 ### 3. Add a new todo
 
-Use the `add` command. The text of the todo item should be enclosed within double quotes (otherwise only the first word is considered as the todo text, and the remaining words are treated as different arguments).
+Use the `add` command. After add command write the task You want to add.
 
 ```
-$ ./todo add "the thing i need to do"
+$ ./todo add the thing i need to do
 Added todo: "the thing i need to do"
 ```
 
